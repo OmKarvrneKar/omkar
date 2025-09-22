@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚢 Titanic Data Cleaning & Preprocessing
 
 A comprehensive data science project focused on cleaning and preprocessing the famous Titanic dataset for machine learning applications.
@@ -142,23 +141,3 @@ titanic-data-cleaning/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Om Karvrnekar**
-- GitHub: [@OmKarvrneKar](https://github.com/OmKarvrneKar)
-- Repository: [omkar](https://github.com/OmKarvrneKar/omkar)
-
-## 🙏 Acknowledgments
-
-- Kaggle for providing the Titanic dataset
-- The data science community for best practices and methodologies
-- Contributors and reviewers
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
